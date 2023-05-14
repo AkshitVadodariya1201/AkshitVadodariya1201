@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/akshit_patel_12" target="blank"><img src="https://img.shields.io/twitter/follow/akshit_patel_12?logo=twitter&style=for-the-badge" alt="akshit_patel_12" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=AkshitVadodariay1201)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/akshit_patel_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshit_patel_12" height="30" width="40" /></a>
@@ -20,8 +22,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AkshitVadodariya1201&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitVadodariya1201)](https://github.com/AkshitVadodariya1201/github-readme-stats) -->
-
-![](https://komarev.com/ghpvc/?username=AkshitVadodariay1201)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitVadodariya1201&layout=compact&theme=vision-friendly-dark)](https://github.com/AkshitVadodariya1201/github-readme-stats)
