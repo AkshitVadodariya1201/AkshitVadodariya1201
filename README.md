@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 
 <!-- <p align="left"> <a href="https://twitter.com/akshit_patel_12" target="blank"><img src="https://img.shields.io/twitter/follow/akshit_patel_12?logo=twitter&style=for-the-badge" alt="akshit_patel_12" /></a> </p> -->
