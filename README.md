@@ -13,10 +13,16 @@
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src= "https://cdn.clever-cloud.com/uploads/2023/08/rust-2.svg" alt="rust" width="40" height="40"/> </a> 
-<a href="https://www.javascript.info/" target="_blank" rel="noreferrer"> <img src= "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="40" height="40"/> </a> 
+<p align="left"> 
+<!-- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  -->
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" alt="html5" width="40" height="40"/> </a> 
+<!-- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  -->
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a> 
+<!-- <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src= "https://cdn.clever-cloud.com/uploads/2023/08/rust-2.svg" alt="rust" width="40" height="40"/> </a>  -->
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" > <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/768px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40"/> </a> 
+<a href="https://www.javascript.info/" target="_blank" rel="noreferrer"> <img src= "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript" width="40" height="40" object-fill/> </a> 
+<a href="https://deno.com/" target="_blank" rel="noreferrer"> <img src= "https://upload.wikimedia.org/wikipedia/commons/e/e8/Deno_2021.svg" alt="Deno" width="40" height="40"/> </a> 
+<a href="https://github.com/features/copilot" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/apideck/icons/github-copilot" alt="copilot" width="40" height="40"/> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
