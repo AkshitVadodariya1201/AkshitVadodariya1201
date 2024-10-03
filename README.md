@@ -26,7 +26,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio_code" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</a> <a href="https://www.vlognow.me/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.techforpc.com/wp-content/uploads/2021/06/vn-video-editor-icon.png?fit=512%2C512&ssl=1" alt="vnvideo" width="40" height="40"/> </a> </p>
+<!-- </a> <a href="https://www.vlognow.me/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/www.techforpc.com/wp-content/uploads/2021/06/vn-video-editor-icon.png?fit=512%2C512&ssl=1" alt="vnvideo" width="40" height="40"/> </a>  -->
+</p>
 
 
 <!-- [![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshitVadodariya1201)](https://github.com/AkshitVadodariya1201/github-readme-stats) -->
